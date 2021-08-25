@@ -15,5 +15,11 @@ the end of the file
 do you like
 |The End|
 
+"this is 1st commit for moving commits to another branch."
+
+
+"this is 2nd commit for moving commits to another branch."
+
 "a commit to examine if rebase will affect the cherry picked branch or not."
+
 
